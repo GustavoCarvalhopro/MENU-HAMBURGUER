@@ -1,0 +1,21 @@
+section p a {
+    color:#c1c1c1;
+    /*display: block;*/
+    padding: 2px;
+    margin: 10px;
+    display: block;
+
+
+}
+#lin{
+    text-align:justify;
+    justify-content: flex-start;
+   
+    
+}
+
+#ap{
+    padding: 2px;
+    margin: 10px;
+    text-align: center;
+}
